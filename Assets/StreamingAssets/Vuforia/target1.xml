@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gemini_symbol" size="0.500000 0.338125" />
+    <ImageTarget name="capart" size="0.500000 0.326250" />
+    <ImageTarget name="leo5" size="0.500000 0.338125" />
+    <ImageTarget name="piscesart" size="0.500000 0.340625" />
+    <ImageTarget name="taurusart" size="0.500000 0.326875" />
+    <ImageTarget name="cancerart" size="0.500000 0.318750" />
+    <ImageTarget name="libraart" size="0.500000 0.393443" />
+  </Tracking>
+</QCARConfig>
